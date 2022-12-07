@@ -1,0 +1,244 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "Catcher in the Rye",
+      "answerText": "J. D. Salinger",
+      "showQuestion": false,
+      "value": 200,
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "questionText": "The Shawshank Redemption",
+      "answerText": "1990 (1994)",
+      "showQuestion": false,
+      "value": 200,
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "questionText": " 101 Dalmations",
+      "answerText": "Cruella Devil",
+      "showQuestion": false,
+      "value": 200,
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "questionText": "How many herbs and spices are in Colonel Sanders' original KFC recipe",
+      "answerText": "11",
+      "showQuestion": false,
+      "value": 200,
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "questionText": "Which country has the smallest population at just over 800 people",
+      "answerText": "Vatican City",
+      "showQuestion": false,
+      "value": 200,
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "questionText": "The widest tornado ever recorded was in this U.S. state in 2013. It was 2.6 miles wide",
+      "answerText": "El Reno, Oklahoma ",
+      "showQuestion": false,
+      "value": 200,
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "questionText": "Holes",
+      "answerText": "Louis Sachar",
+      "showQuestion": false,
+      "value": 400,
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "questionText": "The Godfather",
+      "answerText": "1970 (1972)",
+      "showQuestion": false,
+      "value": 400,
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "questionText": "Star Wars",
+      "answerText": "Darth Vader",
+      "showQuestion": false,
+      "value": 400,
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "questionText": "Which fast-food franchise is credited with creating the very first, modern drive-thru window",
+      "answerText": "Wendy's",
+      "showQuestion": false,
+      "value": 400,
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "questionText": "Which country has the most islands",
+      "answerText": "Sweden",
+      "showQuestion": false,
+      "value": 400,
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "questionText": "After humans, which animal is the next most populus in the world",
+      "answerText": "Cow",
+      "showQuestion": false,
+      "value": 400,
+      "clicked": false
+    },
+    {
+      "id": 13,
+      "questionText": "Charlotte's Web",
+      "answerText": "E. B. White",
+      "showQuestion": false,
+      "value": 600,
+      "clicked": false
+    },
+    {
+      "id": 14,
+      "questionText": "Inception",
+      "answerText": "2010 (2010)",
+      "showQuestion": false,
+      "value": 600,
+      "clicked": false
+    },
+    {
+      "id": 15,
+      "questionText": "Silence of the Lambs",
+      "answerText": "Hannibal Lecter",
+      "showQuestion": false,
+      "value": 600,
+      "clicked": false
+    },
+    {
+      "id": 16,
+      "questionText": "What state was the first Pizza Hut restaurant built",
+      "answerText": "Wichita, Kansas",
+      "showQuestion": false,
+      "value": 600,
+      "clicked": false
+    },
+    {
+      "id": 17,
+      "questionText": "Which country has the most coastline",
+      "answerText": "Canada",
+      "showQuestion": false,
+      "value": 600,
+      "clicked": false
+    },
+    {
+      "id": 18,
+      "questionText": "On average, how many lunar eclipses are there a year",
+      "answerText": "2",
+      "showQuestion": false,
+      "value": 600,
+      "clicked": false
+    },
+    {
+      "id": 19,
+      "questionText": "Moby Dick",
+      "answerText": "Herman Melville",
+      "showQuestion": false,
+      "value": 800,
+      "clicked": false
+    },
+    {
+      "id": 20,
+      "questionText": "Back to the Future",
+      "answerText": "1985 (1985)",
+      "showQuestion": false,
+      "value": 800,
+      "clicked": false
+    },
+    {
+      "id": 21,
+      "questionText": "Back to the Future",
+      "answerText": "Biff Tannen",
+      "showQuestion": false,
+      "value": 800,
+      "clicked": false
+    },
+    {
+      "id": 22,
+      "questionText": "July 13th is dedicated to which fast food in the U.S.A.",
+      "answerText": "French Fries",
+      "showQuestion": false,
+      "value": 800,
+      "clicked": false
+    },
+    {
+      "id": 23,
+      "questionText": "Which country tends to experience the highest average rainfall annually",
+      "answerText": "Colombia",
+      "showQuestion": false,
+      "value": 800,
+      "clicked": false
+    },
+    {
+      "id": 24,
+      "questionText": "How tall is the tallest red wood tree (in ft)",
+      "answerText": "380ft (the Hyperion) in CA, USA",
+      "showQuestion": false,
+      "value": 800,
+      "clicked": false
+    },
+    {
+      "id": 25,
+      "questionText": "Don Quixote",
+      "answerText": "Miguel de Cervantes",
+      "showQuestion": false,
+      "value": 1000,
+      "clicked": false
+    },
+    {
+      "id": 26,
+      "questionText": "Gone with the Wind",
+      "answerText": "1930 (1939)",
+      "showQuestion": false,
+      "value": 1000,
+      "clicked": false
+    },
+    {
+      "id": 27,
+      "questionText": "It",
+      "answerText": "Pennywise",
+      "showQuestion": false,
+      "value": 1000,
+      "clicked": false
+    },
+    {
+      "id": 28,
+      "questionText": "What was the first fast food chain in China",
+      "answerText": "KFC",
+      "showQuestion": false,
+      "value": 1000,
+      "clicked": false
+    },
+    {
+      "id": 29,
+      "questionText": "This country recorded the largest ever earthquake at magnitude 9.5 in 1960",
+      "answerText": "Chile",
+      "showQuestion": false,
+      "value": 1000,
+      "clicked": false
+    },
+    {
+      "id": 30,
+      "questionText": "Bhutan is on average the highest country in the world. This country is the flattest",
+      "answerText": "Bolivia",
+      "showQuestion": false,
+      "value": 1000,
+      "clicked": false
+    }
+  ]
+}
